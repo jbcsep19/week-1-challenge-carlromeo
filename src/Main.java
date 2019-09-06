@@ -9,6 +9,7 @@ public class Main {
 
         //Print to user
 
+        System.out.println("WELCOME TO MY IMAGINATION" + System.lineSeparator());
         System.out.println("Your name FOOL!!!..... HAHAHAHAHA!!!!");
         String name = key.next();
         System.out.println("You are standing at the end of a hallway with 3 doors," + " " + name + "!" + " " +"How do you wanna proceed?");
